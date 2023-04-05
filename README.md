@@ -1,7 +1,9 @@
-
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=python🤹&width=800&height=200)](https://github.com/Akshay090/svg-banners)
 
 <h1 align="center">Hi 👋, I'm sudheer kumar kalva</h1>
-<h3 align="center">A passionate Python developer from India</h3>
+<h3 align="center">A passionate Python Developer from India</h3>
+
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 <p align="left"> <a href="https://twitter.com/@sudheer_kalva" target="blank"><img src="https://img.shields.io/twitter/follow/@sudheer_kalva?logo=twitter&style=for-the-badge" alt="@sudheer_kalva" /></a> </p>
 
@@ -33,3 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudheerkumarkalva&show_icons=true&locale=en" alt="sudheerkumarkalva" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudheerkumarkalva&" alt="sudheerkumarkalva" /></p>
+
+
